@@ -36,11 +36,6 @@ var processors = [
 		plugin: require('postcss-simple-extend'),
 		namespace: 'extend',
 		defaults: {}
-	},
-	{
-		plugin: require('autoprefixer-core'),
-		namespace: 'autoprefixer',
-		defaults: {}
 	}
 ];
 
