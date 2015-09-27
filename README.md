@@ -3,7 +3,7 @@
 <img align="right" width="150" height="150" src="https://i.imgur.com/zxxN3OX.png" alt="">
 
 [PreCSS] is a tool that allows you to use Sass-like markup in your CSS files.
-[This fork replace the postcss-partial-import with postcss-import ]
+###This fork replace the postcss-partial-import with postcss-import 
 
 Enjoy a familiar syntax with variables, mixins, conditionals, and other goodies.
 
