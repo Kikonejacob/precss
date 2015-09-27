@@ -3,6 +3,7 @@
 <img align="right" width="150" height="150" src="https://i.imgur.com/zxxN3OX.png" alt="">
 
 [PreCSS] is a tool that allows you to use Sass-like markup in your CSS files.
+[This fork replace the postcss-partial-import with postcss-import ]
 
 Enjoy a familiar syntax with variables, mixins, conditionals, and other goodies.
 
@@ -287,7 +288,7 @@ PreCSS blends Sass-like strength with W3C future-syntax superpower, powered by t
 [postcss-custom-selectors]:   https://github.com/postcss/postcss-custom-selectors
 [postcss-selector-matches]:   https://github.com/postcss/postcss-selector-matches
 [postcss-color-function]:     https://github.com/postcss/postcss-color-function
-[postcss-partial-import]:     https://github.com/jonathantneal/postcss-partial-import
+[postcss-import]:	      https://github.com/postcss/postcss-import
 [postcss-custom-media]:       https://github.com/postcss/postcss-custom-media
 [postcss-media-minmax]:       https://github.com/postcss/postcss-media-minmax
 [postcss-selector-not]:       https://github.com/postcss/postcss-selector-not
